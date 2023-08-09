@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { enhance, type SubmitFunction } from '$app/forms';
+	import { type enhance, type SubmitFunction } from '$app/forms';
 	import { page } from '$app/stores';
 	import '$lib/app.css';
 	import Drawer from './Drawer.svelte';
