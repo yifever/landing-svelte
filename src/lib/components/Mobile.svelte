@@ -4,11 +4,8 @@
 
 <div class="p-4 xl:p-10 bg-base-300 my-10 rounded-lg">
 	<div class="max-w-lg mx-auto pb-10">
-		<div class="text-3xl font-bold text-center my-5">Optimized for Mobile</div>
-		<div class="text-lg text-center my-5">
-			Voluptate eiusmod quis do aliquip labore esse pariatur excepteur dolore do fugiat sint Lorem
-			commodo ea pariatur.
-		</div>
+		<div class="text-3xl font-bold text-center my-5">Mobile App</div>
+		<div class="text-lg text-center my-5">Verify all of your accounts within a single app.</div>
 	</div>
 
 	<div class="flex justify-center">

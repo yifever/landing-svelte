@@ -13,7 +13,7 @@
 			/></svg
 		>
 		<p class="font-bold">
-			Company Name. <br />Company Tagline
+			MeCube. <br />Never do a Captcha again
 		</p>
 		<p>Copyright © 2023 - All right reserved</p>
 	</div>

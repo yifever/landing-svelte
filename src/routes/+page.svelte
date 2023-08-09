@@ -9,6 +9,8 @@
 	import Countdown from '$lib/components/Countdown.svelte';
 	import Drawer from '$lib/components/Drawer.svelte';
 	import Card from '$lib/components/Card.svelte';
+	import Gif from '$lib/components/Gif.svelte';
+	import Testimonials from '$lib/components/Testimonials.svelte';
 </script>
 
 <div>
@@ -16,25 +18,23 @@
 		<div class="">
 			<Hero />
 		</div>
-
-		<div class="lg:container mx-auto">
+		<!-- <div class="lg:container mx-auto">
 			<Carousel />
 		</div>
+-->
 	</div>
 	<div class="container mx-auto">
-		<Stats />
-		<Chat />
-
+		<Gif />
 		<div class="my-10">
 			<HeroCards />
 		</div>
 
+		<!-- <Stats /> -->
+		<Testimonials />
+		<!--
 		<div class="my-10">
 			<Mobile />
 		</div>
-
-		<div class="my-10">
-			<Links />
-		</div>
+-->
 	</div>
 </div>
