@@ -45,8 +45,8 @@
 		<div class="text-center max-w-lg">
 			<h1 class="text-3xl font-bold">Adaptive Learning</h1>
 			<p class="py-6">
-				The more you use giveChatGPT, the smarter it gets! Our AI adapts to your spending habits,
-				offering tailored advice and ensuring maximum security tailored to your needs.
+				The more you use GCYCC, the smarter it gets! Our AI adapts to your spending habits, offering
+				tailored advice and ensuring maximum security tailored to your needs.
 			</p>
 			<!-- <button class="btn btn-primary w-full">Get Started</button> -->
 		</div>
