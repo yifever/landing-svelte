@@ -11,9 +11,7 @@
 <div class=" bg-base-300 p-4 xl:p-10 rounded-lg m-4">
 	<div class="max-w-lg mx-auto pb-10">
 		<div class="text-3xl font-bold text-center my-5">Don't Just Trust Us</div>
-		<div class="text-lg text-center my-5">
-			Hear what people who tried our alpha demo are saying.
-		</div>
+		<div class="text-lg text-center my-5">Hear what people on X dot com are saying.</div>
 	</div>
 
 	<div class="flex flex-col lg:flex-row justify-center gap-5 xl:gap-10">
@@ -49,9 +47,9 @@
 						</div>
 					</div>
 					<div class="chat-bubble">
-						"I've been on the lookout for something like this for a while. The alpha demo of MeCube
-						hints at some groundbreaking features. Can't wait to use it in production and not worry
-						about bot spam on our website ever again!"
+						"Never thought I'd be comfortable with the idea of giving an AI my credit card, but this
+						app showcased the capabilities and ethics of modern tech. A real eye-opener! Would give
+						AI my credit card again."
 					</div>
 					<div class="chat-footer opacity-50">{testtext2}</div>
 				</div>
@@ -68,9 +66,9 @@
 						</div>
 					</div>
 					<div class="chat-bubble">
-						"The team behind MeCube is onto something big. If the alpha is any indication, the final
-						product will be a game-changer. It's rare to see such vision and execution at this
-						stage. Eagerly awaiting the next iteration and good luck to the team."
+						"Skeptical at first, but GCYCC turned out to be an innovative and safe experience. I've
+						learned so much about the technology and potential of AI and bought my friend a nice
+						gift. Highly recommend!"
 					</div>
 					<div class="chat-footer opacity-50">{testtext3}</div>
 				</div>

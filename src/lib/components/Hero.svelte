@@ -1,21 +1,4 @@
 <script lang="ts">
-	let email: string = '';
-	let message: string = '';
-
-	function signUpForWaitlist() {
-		if (!validateEmail(email)) {
-			message = 'Please enter a valid email.';
-			return;
-		}
-
-		message = 'Thanks for signing up! But even this site is just a demo!';
-		email = ''; // clear the input
-	}
-
-	function validateEmail(email: string) {
-		var pattern = new RegExp('[a-z0-9]+@[a-z]+.[a-z]{2,3}');
-		return email.match(pattern);
-	}
 </script>
 
 <div
@@ -25,29 +8,16 @@
 	<div class="hero-overlay bg-opacity-70" />
 	<div class="hero-content text-neutral-content">
 		<div class="z-60 drop-shadow-lg text-center">
-			<div class="mb-5 text-8xl font-semibold">MeCube</div>
-			<div class="mb-5 max-w-sm">Never do a Captcha again</div>
+			<div class="mb-5 text-8xl font-semibold">GCYCC</div>
+			<div class="mb-5 max-w-sm">Give ChatGPT Your Credit Card</div>
 			<div class="flex gap-4 justify-center">
-				<input
-					type="text"
-					class="block border border-grey-light w-full p-3 rounded mb-4"
-					name="email"
-					bind:value={email}
-					placeholder="Email"
-				/>
-			</div>
-			<div class="flex gap-4 justify-center">
-				<button
-					class="btn btn-primary transition-color duration-300 text-lg"
-					on:click={signUpForWaitlist}
-				>
-					Sign Up for a Free Demo
+				<button class="btn btn-primary transition-color duration-300 text-lg">
+					<a
+						href="https://docs.google.com/forms/d/e/1FAIpQLSc05WEDUPS4VBQKu4tUWiibIFHhI-CyxR_qE3kBSGqgcLox5w/viewform?usp=sf_link"
+					>
+						Sign Up for the closed beta
+					</a>
 				</button>
-			</div>
-			<div class="flex gap-4 justify-center">
-				<span>
-					<p>{message}</p>
-				</span>
 			</div>
 		</div>
 	</div>

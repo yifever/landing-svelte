@@ -6,10 +6,11 @@
 			class="h-80 w-full object-cover rounded-lg shadow-lg"
 		/>
 		<div class="text-center max-w-lg">
-			<h1 class="text-3xl font-bold">Keep Up with the AI Arms Race</h1>
+			<h1 class="text-3xl font-bold">Smart Security Layers</h1>
 			<p class="py-6">
-				MeCube works with the top AI researchers in the world to develop proof-of-humannes solutions
-				resilient to state-of-the-art AI models to keep your sites bot-free.
+				Gone are the days when you'd worry about online payments. With GCYCC, we leverage
+				state-of-the-art encryption and AI algorithms to ensure your card details remain safe and
+				transactions are smooth.
 			</p>
 			<!-- <button class="btn btn-primary w-full">Get Started</button> -->
 		</div>
@@ -20,14 +21,14 @@
 	<div class="hero-content flex-col lg:flex-row-reverse xl:gap-32">
 		<img
 			alt="hero"
-			src="https://images.unsplash.com/photo-1510915228340-29c85a43dcfe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80"
+			src="https://images.unsplash.com/photo-1628645339131-0c39c7527856?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
 			class="h-80 w-full object-cover rounded-lg shadow-lg"
 		/>
 		<div class="text-center max-w-lg">
-			<h1 class="text-3xl font-bold">Remain Anonymous</h1>
+			<h1 class="text-3xl font-bold">Hands-free Transactions</h1>
 			<p class="py-6">
-				MeCube uses zero knowledge proofs to verify humans, so users remain anonymous while proving
-				they are human.
+				Ever imagined a world where transactions are done by simply talking? With GCYCC, make
+				payments, check balances, and more - just by speaking to a chatbot.
 			</p>
 			<!-- <button class="btn btn-primary w-full">Get Started</button> -->
 		</div>
@@ -38,14 +39,14 @@
 	<div class="hero-content flex-col lg:flex-row xl:gap-32">
 		<img
 			alt="hero"
-			src="https://images.unsplash.com/photo-1527689368864-3a821dbccc34?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2340&q=80"
+			src="https://images.unsplash.com/photo-1504639725590-34d0984388bd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80"
 			class="h-80 w-full object-cover rounded-lg shadow-lg"
 		/>
 		<div class="text-center max-w-lg">
-			<h1 class="text-3xl font-bold">Seemless Integration</h1>
+			<h1 class="text-3xl font-bold">Adaptive Learning</h1>
 			<p class="py-6">
-				Use the HTMX MeCube plugin in your favorite JavaScript framework. Not ready to use htmx yet?
-				MeCube can be also imported as a standard JavaScript Library.
+				The more you use giveChatGPT, the smarter it gets! Our AI adapts to your spending habits,
+				offering tailored advice and ensuring maximum security tailored to your needs.
 			</p>
 			<!-- <button class="btn btn-primary w-full">Get Started</button> -->
 		</div>
@@ -56,14 +57,14 @@
 	<div class="hero-content flex-col lg:flex-row-reverse xl:gap-32">
 		<img
 			alt="hero"
-			src="https://images.unsplash.com/photo-1684862030284-6b24307ebd4a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2662&q=80"
+			src="https://images.unsplash.com/photo-1513611771808-7e8ab7f1dec6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
 			class="h-80 w-full object-cover rounded-lg shadow-lg"
 		/>
 		<div class="text-center max-w-lg">
-			<h1 class="text-3xl font-bold">Never do a Captcha Again</h1>
+			<h1 class="text-3xl font-bold">Universally Compatible</h1>
 			<p class="py-6">
-				MeCube re-verifies user daily without a captcha test, so you will never lose a user to an
-				annoying Captcha again.
+				Whether you're using a mobile device, desktop, or even a smartwatch, GCYCC is designed to be
+				fully compatible. Seamless payments, anytime, anywhere.
 			</p>
 			<!-- <button class="btn btn-primary w-full">Get Started</button> -->
 		</div>
